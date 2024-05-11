@@ -6,7 +6,7 @@ Hello! Inside this repository, you can find several examples of complex queries 
 
 The repository contains the following examples:
 
-AUTOMATING TABLES.sql
-RANK & ROWNUMBER FUNCTIONS.sql
-RECURSIVE QUERY.sql
-SEQUENTIAL LEFT JOIN AND COALESCE .sql
+1. AUTOMATING TABLES.sql
+2. RANK & ROWNUMBER FUNCTIONS.sql
+3. RECURSIVE QUERY.sql
+4. SEQUENTIAL LEFT JOIN AND COALESCE .sql
