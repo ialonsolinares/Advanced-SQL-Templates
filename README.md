@@ -10,3 +10,6 @@ The repository contains the following examples:
 2. RANK & ROWNUMBER FUNCTIONS.sql
 3. RECURSIVE QUERY.sql
 4. SEQUENTIAL LEFT JOIN AND COALESCE .sql
+
+
+You can open and inspect them with any IDE (VSCODE, Sublime, Notepad ++ or even the Text editor)
