@@ -2,4 +2,11 @@
 
 ![BigQuery Snapshot](https://storage.googleapis.com/gweb-cloudblog-publish/images/1_BigQuery_table_snapshots.max-1400x1400.jpg)
 
-Examples on advanced SQL queries to learn how to make long queries and solve specific circunstances that you, as a data analyst, will eventually encounter
+Hello! Inside this repository, you can find several examples of complex queries that every aspiring data analyst must know, hope you enjoy!
+
+The repository contains the following examples:
+
+AUTOMATING TABLES.sql
+RANK & ROWNUMBER FUNCTIONS.sql
+RECURSIVE QUERY.sql
+SEQUENTIAL LEFT JOIN AND COALESCE .sql
